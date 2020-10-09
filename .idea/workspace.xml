@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="662fbd9e-c0c2-4390-bf64-91ae74761d1f" name="Default Changelist" comment="ok">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1ibKlh2HXwtIWt9mUnZ1pxvwDBi" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\татьяна\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="662fbd9e-c0c2-4390-bf64-91ae74761d1f" name="Default Changelist" comment="" />
+      <created>1602171003625</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602171003625</updated>
+      <workItem from="1602171004644" duration="513000" />
+      <workItem from="1602171607234" duration="3000" />
+      <workItem from="1602171999829" duration="3117000" />
+    </task>
+    <task id="LOCAL-00001" summary="ok">
+      <created>1602243404533</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1602243404533</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ok" />
+    <option name="LAST_COMMIT_MESSAGE" value="ok" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1602243434572">
+      <screen x="0" y="0" width="1536" height="826" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.826@0.0.1536.826" timestamp="1602243434572" />
+    <state x="593" y="331" key="Github.CreateGistDialog" timestamp="1602243864991">
+      <screen x="0" y="0" width="1536" height="826" />
+    </state>
+    <state x="593" y="331" key="Github.CreateGistDialog/0.0.1536.826@0.0.1536.826" timestamp="1602243864991" />
+    <state x="647" y="309" key="Github.ShareDialog" timestamp="1602243423429">
+      <screen x="0" y="0" width="1536" height="826" />
+    </state>
+    <state x="647" y="309" key="Github.ShareDialog/0.0.1536.826@0.0.1536.826" timestamp="1602243423429" />
+    <state x="277" y="44" key="SettingsEditor" timestamp="1602243049116">
+      <screen x="0" y="0" width="1536" height="826" />
+    </state>
+    <state x="277" y="44" key="SettingsEditor/0.0.1536.826@0.0.1536.826" timestamp="1602243049116" />
+    <state x="586" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602243655838">
+      <screen x="0" y="0" width="1536" height="826" />
+    </state>
+    <state x="586" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.826@0.0.1536.826" timestamp="1602243655838" />
+    <state x="599" y="203" key="svn.repositoryBrowser" timestamp="1602172451765">
+      <screen x="0" y="0" width="1536" height="826" />
+    </state>
+    <state x="599" y="203" key="svn.repositoryBrowser/0.0.1536.826@0.0.1536.826" timestamp="1602172451765" />
+    <state x="569" y="186" key="svn4idea.import.options" timestamp="1602172450857">
+      <screen x="0" y="0" width="1536" height="826" />
+    </state>
+    <state x="569" y="186" key="svn4idea.import.options/0.0.1536.826@0.0.1536.826" timestamp="1602172450857" />
+  </component>
+</project>
